@@ -1,0 +1,5 @@
+The Oxford Economist Running the Fed’s Interest-Rate Machine
+Simon Potter is charged with implementing mechanisms that will raise interest rates when Fed policy makers make that call
+When the Federal Reserve finally decides to raise short-term interest rates from near zero, it will be Simon Potter’s job to make it happen.
+The 55-year-old, British-born head of markets at the Federal Reserve Bank of New York had never worked at a securities-trading firm before taking his current post three years ago. The economist manages the Fed’s $4.2 trillion securities portfolio and runs a team of nearly 500 traders and analysts. Now, Mr. Potter will be faced with one of the trickiest trading assignments around: making it more expensive to borrow money when the financial system is awash in it.
+Fed officials are considering lifting short-term rates at their policy meeting Dec. 15-16 after leaving them near zero for seven years. Traders in Mr. Potter’s group have spent more than two years testing the levers they will use and trying to sell Wall Street on the idea that they can be effective.
